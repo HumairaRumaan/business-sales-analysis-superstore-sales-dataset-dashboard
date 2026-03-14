@@ -62,6 +62,7 @@ The dashboard helps identify sales trends, top-performing products, customer seg
 ---
 
 ## 🖼 Dashboard Preview
+![Dashboard Preview](dashboard-preview.png)
 
 
 
