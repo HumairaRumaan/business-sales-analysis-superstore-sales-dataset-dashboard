@@ -1,6 +1,6 @@
 # business-sales-analysis-superstore-sales-dataset-dashboard
-Business Sales Performance Analytics- Superstore Dataset Dashboard using Power BI
-📊 FUTURE_DS_01 – Business Sales Performance Analytics Dashboard
+
+📊 FUTURE_DS_01 – Business Sales Performance Analytics- Superstore Dataset Dashboard using Power BI
 
 📌 Project Overview
 This project was completed as part of the Future Interns Data Science & Analytics Internship Task.
